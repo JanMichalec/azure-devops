@@ -1,4 +1,4 @@
 # azure-devops
 This is repo for azure devops.
 
-# more info TBD
+[![CI](https://github.com/JanMichalec/azure-devops/actions/workflows/main.yml/badge.svg)](https://github.com/JanMichalec/azure-devops/actions/workflows/main.yml)
